@@ -1,0 +1,27 @@
+html,
+body,
+div,
+ul,
+li,
+ol,
+a,
+span,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+table,
+img {
+  font-family: "Microsoft YaHei", Tahoma, "Hiragino Sans GB", "STHeiti";
+  font-size: 14px;
+}
+.WhiteSpace {
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  vertical-align: middle;
+}

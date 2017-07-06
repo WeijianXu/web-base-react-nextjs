@@ -1,0 +1,36 @@
+{
+  "name": "web-base-react-nextjs",
+  "version": "1.0.0",
+  "description": "Build a web based on react nextjs framework.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "react",
+    "nextjs",
+    "webpack",
+    "babel",
+    "node",
+    "framework"
+  ],
+  "author": "William Xu",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^2.4.4",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "extract-text-webpack-plugin": "^2.1.2",
+    "gulp": "^3.9.1",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-less": "^3.3.2",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.4",
+    "style-loader": "^0.18.2"
+  }
+}
